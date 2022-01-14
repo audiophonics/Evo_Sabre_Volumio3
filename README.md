@@ -15,7 +15,7 @@ Moreover this also alows most of hardware options to be accessible from the plug
 
 
 ## What this does not do : 
-* I could not add the option to easily import a custom logo for startup, this framework is not really designed for making a HTMLcanvas pop in the UI and image analysis. I might add that later as a secondary utility. 
+* I could not add the option to easily import a custom logo for startup, this framework is not really designed for making a HTMLcanvas pop in the UI and do image analysis on the fly. I might add that later as a secondary utility. 
 * Changing timezone (so the display will show the correct time). This is a work in progress and will be available soon.
 
 
