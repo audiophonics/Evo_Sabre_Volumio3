@@ -19,7 +19,11 @@ Moreover this also alows most of hardware options to be accessible from the plug
 * Changing timezone (so the display will show the correct time). This is a work in progress and will be available soon.
 
 ## Installation : 
-This plugin has not been validated yet. 
+This plugin has not been validated yet. So the only option until then is to follow the build from source section then do
+```
+volumio plugin install
+```
+This will not be necessary anymore when the plugin has been validated.
 
 ## (re)Build from source : 
 If you need to rebuild this plugin from source just do the following (preferably on a fresh system) : 
