@@ -18,6 +18,8 @@ Moreover this also alows most of hardware options to be accessible from the plug
 * I could not add the option to easily import a custom logo for startup, this framework is not really designed for making a HTMLcanvas pop in the UI and do image analysis on the fly. I might add that later as a secondary utility. 
 * Changing timezone (so the display will show the correct time). This is a work in progress and will be available soon.
 
+## Installation : 
+This plugin has not been validated yet. 
 
 ## (re)Build from source : 
 If you need to rebuild this plugin from source just do the following (preferably on a fresh system) : 
