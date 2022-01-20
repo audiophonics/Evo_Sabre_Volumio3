@@ -11,12 +11,12 @@ Moreover this also alows most of hardware options to be accessible from the plug
 
 ## What this actually does : 
 * It comes packaged with the latest version of our OLED#2 script which is installed as a service and driven from volumio plugin UI
-* It installs and configure LIRC as to work with EVO SABBE Remote.
+* It installs and configure LIRC as to work with EVO SABRE Remote.
 
 
 ## What this does not do : 
 * I could not add the option to easily import a custom logo for startup, this framework is not really designed for making a HTMLcanvas pop in the UI and do image analysis on the fly. I might add that later as a secondary utility. 
-* Changing timezone (so the display will show the correct time). This is a work in progress and will be available soon.
+* Changing timezone (so the display will show the correct time without having to use SSH). This is a work in progress and will be available soon.
 
 ## Installation : 
 This plugin has not been validated yet. So the only option until then is to follow the build from source section then do
