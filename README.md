@@ -32,4 +32,5 @@ Done! Plugin Successfully Installed
 * Enable Audiophonics Evo Sabre Plugin
 
 At this point the rightmost display should turn on and react to whatever happens in playback.
+
 The remote should be operationnal after a reboot.
