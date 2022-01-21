@@ -1,5 +1,8 @@
 # Evo_Sabre_Volumio3 Beta release
-This is a quick test release. It is intended to be used on a fresh non-customized Volumio3 image. Do not use this on a system that has been modified before. 
+This is a quick test release. It is intended to be used on a fresh non-customized Volumio3 image. 
+
+Do not use this on a system that has been modified before. 
+
 Here is the testing procedure : 
 * Download a fresh Volumio image and flash it on a SD card.
 * Boot the SD card into your EVO Sabre.
@@ -8,8 +11,8 @@ Here is the testing procedure :
   * The system will ask you to reboot but as far as testing this plugin is concerned, it does not really matter if you decide to reboot later.
 * Go to volumio/dev and enable SSH.
 
-Use a SSH client on a computer located in the same network to connect to the Evo Sabre. 
-Once loggued into SSH do the following : 
+* Use a SSH client on a computer located in the same network to connect to the Evo Sabre. 
+* Once loggued into SSH do the following : 
 ```
 git clone -b beta_release --single-branch https://github.com/audiophonics/Evo_Sabre_Volumio3.git
 cd Evo_Sabre_Volumio3
@@ -28,3 +31,5 @@ Done! Plugin Successfully Installed
 * Open the plugin tab -> installed plugins
 * Enable Audiophonics Evo Sabre Plugin
 
+At this point the rightmost display should turn on and react to whatever happens in playback.
+The remote should be operationnal after a reboot.
