@@ -12,7 +12,7 @@ Here is the testing procedure :
 * Go to volumio/dev and enable SSH.
 
 * Use a SSH client on a computer located in the same network to connect to the Evo Sabre. 
-* Once loggued into SSH do the following : 
+* Once logged into SSH do the following : 
 ```
 git clone -b beta_release --single-branch https://github.com/audiophonics/Evo_Sabre_Volumio3.git
 cd Evo_Sabre_Volumio3
