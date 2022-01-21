@@ -18,7 +18,7 @@ git clone -b beta_release --single-branch https://github.com/audiophonics/Evo_Sa
 cd Evo_Sabre_Volumio3
 sudo apt-get update
 sudo apt-get install unzip
-unzip audiophonics_evo_sabre.zip
+unzip -o audiophonics_evo_sabre.zip
 volumio plugin install
 ```
 
