@@ -17,7 +17,7 @@ Here is the testing procedure :
 git clone -b beta_release --single-branch https://github.com/audiophonics/Evo_Sabre_Volumio3.git
 cd Evo_Sabre_Volumio3
 sudo apt-get update
-sudo apt-get install unzip
+sudo apt-get install -y unzip
 unzip -o audiophonics_evo_sabre.zip
 volumio plugin install
 ```
